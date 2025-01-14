@@ -1,0 +1,203 @@
+Formas de aprender a programar
+
+La experiencia de escribir un código en un lenguaje de programación puede ser emocionante y gratificante. Desde siempre, en el sector de programación, las personas se ayudan entre sí para mejorar sus habilidades y desarrollar mejores prácticas. En este curso, vas a aprender específicamente sobre el lenguaje de programación R, pero, más adelante, quizá quieras enfocarte en otros lenguajes según tus intereses y objetivos profesionales. Esta lectura constituye una guía general para ayudarte a decidir cuáles son los lenguajes de programación que mejor se ajustan a tus necesidades.
+
+
+Lenguajes de programación populares según la profesión 
+
+Repasemos algunos de los puestos laborales que quizá encuentres en el sector y los lenguajes de programación que más usan esos profesionales. Además, incluimos una lista de recursos adicionales para que explores y aprendas más sobre cada uno de los lenguajes de programación que te presentamos.
+Analista de datos
+
+Un analista de datos se encarga de recopilar, transformar y organizar los datos para sacar conclusiones, hacer predicciones e impulsar la toma de decisiones fundamentada. Los lenguajes de programación que más usan los analistas de datos son R y Python. 
+
+R ofrece a los analistas de datos funciones prácticas para estadística, y es útil para crear visualizaciones de datos avanzadas. Consulta estos recursos para obtener más información sobre R:
+
+    El proyecto R para cálculos estadísticos
+
+https://www.r-project.org/ : Sitio web para descargar R, documentación y artículos de soporte
+
+Manuales de R
+
+https://cran.r-project.org/manuals.html : Enlaces a manuales del equipo del núcleo de R, que incluyen presentación, administración y ayuda
+
+Tutoriales de R del club de programación
+
+https://ourcodingclub.github.io/tutorials.html : Recopilación de tutoriales de programación con R
+
+R para principiantes
+
+https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf : Una guía de primeros pasos para trabajar con datos, gráficos y estadísticas en R
+
+Python es un lenguaje de uso general que puedes usar para crear lo que necesites para tu análisis de datos. A continuación, detallamos algunos recursos para que empieces a aprender Python:
+
+    La Fundación del Software Python (PSF)
+
+https://www.python.org/about/gettingstarted/ : Sitio web con guías que te ayudan a dar tus primeros pasos 
+
+Tutorial Python
+
+https://docs.python.org/3/tutorial/ : Tutorial de Python 3 del sitio de PSF
+
+Tutoriales de Python del club de programación
+
+https://ourcodingclub.github.io/tutorials.html : Recopilación de tutoriales de programación con Python
+
+Diseñador web
+
+Los diseñadores web se encargan de diseñar y darle estilo a las páginas web que contienen texto, gráficos y videos. Por lo general, usan Lenguaje de marcas de hipertexto v5 (HTML5) y Hojas de estilo en cascada (CSS) para crear sitios web. 
+
+HTML5 brinda la estructura de las páginas web y se usa para vincularse con plataformas de hosting. Usa estos recursos para obtener más información sobre HTML5 y CSS:
+
+    Tutorial de HTML
+
+https://www.tutorialrepublic.com/html-tutorial/ : Introducción a HTML, con enlaces a funciones, ejemplos y referencias de HTML5
+
+Hoja de referencia de HTML5
+
+https://www.wpkube.com/html5-cheat-sheet/ : Resumen útil de etiquetas y atributos de HTML5 y su compatibilidad con HTML4
+
+Curso de conceptos básicos de HTML5 y CSS
+
+https://www.edx.org/learn/css/the-world-wide-web-consortium-w3c-html5-and-css-fundamentals : Curso gratuito de W3C en edX; por 199 dólares, podrás obtener un certificado verificado que acredite que realizaste el curso 
+
+CSS se usa para diseño de páginas web y elementos de gráficos de control (color, diseño y fuente), así como presentaciones de páginas en distintos dispositivos (pantallas grandes, pantallas de dispositivos móviles e impresoras). Explora estas hojas de referencia sobre CSS:
+
+    Hoja de referencia interactiva de CSS
+
+https://htmlcheatsheet.com/css/ : Incluye las partes más comunes de CSS, incluido gradiente, fondo, familia de fuentes, bordes y mucho más
+
+Las 50 mejores hojas de referencia de HTML y CSS
+
+https://sharethis.com/es/best-practices/2020/02/best-html-and-css-cheat-sheets/ : Lista con 50 hojas de referencia; elige las que te sean más útiles
+
+Desarrolladores de aplicaciones para dispositivos móviles
+
+Los desarrolladores de aplicaciones para dispositivos móviles usan la programación para crear aplicaciones para computadoras portátiles, dispositivos móviles y tabletas. Los lenguajes de programación que más usan son Swift, Java y C#.
+
+Swift (para plataformas de Apple) es un lenguaje de scripts de código abierto para macOS, iOS, watchOS y tvOS. Su objetivo principal es lograr que las aplicaciones funcionen con más rapidez. Para más información sobre Swift, explora estos recursos:
+
+    Swift.org
+
+https://www.swift.org/about/ : Comunidad de código abierto que contiene recursos para aprender a usar Swift; incluye videos y códigos de muestra
+
+Sitio para desarrolladores que usan Swift
+
+https://developer.apple.com/swift/ : Sitio web para desarrolladores de Apple que contiene información para quienes quieran usar Swift 
+
+Recursos para el desarrollo con Swift
+
+https://developer.apple.com/swift/resources/ : Colección de documentos, códigos de muestra, videos y libros recomendados de Apple 
+
+Java (para dispositivos de Android) es el lenguaje oficial de programación para desarrollo de Android. El artículo Quiero desarrollar aplicaciones para Android: ¿Qué lenguajes debería aprender?
+https://www.androidauthority.com/develop-android-apps-languages-learn-391008/
+ explora otros lenguajes que se usan para desarrollo en Android. Consulta estos recursos sobre Java:
+
+    Android Studio
+
+https://developer.android.com/studio?hl=es-419 : Entorno de desarrollo integrado (IDE) descargable que contiene herramientas para desarrollar aplicaciones para dispositivos Android
+
+Desarrolla tu primera aplicación para Android con Java
+
+https://developer.android.com/courses/android-basics-compose/course?hl=es-419#1 : Instrucciones para instalar Android Studio y crear tu primera aplicación
+
+Tutorial de Java para principiantes: Escribe una aplicación simple sin necesidad de tener experiencia
+
+https://www.androidauthority.com/java-tutorial-for-beginners-write-a-simple-app-with-no-previous-experience-1121975/ : Resumen de cómo aprender Java; contiene ejemplos
+
+C# (que se pronuncia "sí sharp") es un lenguaje de programación orientado al objeto que se usa mucho para crear juegos y aplicaciones móviles en la plataforma de desarrollo de código abierto .NET. Xamarin amplía la plataforma .NET gracias a un framework para que los desarrolladores creen aplicaciones móviles para distintas plataformas, tanto en iOS como en Android. A continuación, tienes algunos recursos para ayudarte a aprender C#:
+
+    Materiales de Microsoft .NET para aprender C#
+
+https://dotnet.microsoft.com/es-es/learn/csharp : Incluye cursos, tutoriales y videos gratuitos para aprender el lenguaje de programación C#
+
+Materiales de Microsoft para aprender Xamarin
+
+https://dotnet.microsoft.com/en-us/learn/maui : Incluye cursos, tutoriales y videos gratuitos para aprender sobre desarrollo móvil con Xamarin
+
+Tutorial sobre Xamarin: Desarrolla tu primera aplicación para iOS o Android usando C#
+
+https://dotnet.microsoft.com/en-us/learn/maui/first-app-tutorial/intro : Instrucciones para desarrollar una aplicación móvil que muestre el texto "Hola mundo"
+
+Aprender C# en Codecademy
+
+https://www.codecademy.com/learn/learn-c-sharp : Sitio web con lecciones interactivas básicas y gratuitas, así como actividades extra a las que puedes acceder mediante una suscripción mensual
+
+Desarrolladores de aplicaciones web
+
+Los desarrolladores de aplicaciones web diseñan y desarrollan aplicaciones de redes que se usan en la web. Los lenguajes de programación que más usan son Java, Python, Ruby y PHP.
+
+Java se usa ampliamente para crear aplicaciones web de empresas que pueden ejecutarse en múltiples clientes. Una de las fortalezas principales de Java es su enfoque de "escribir una vez, ejecutar en cualquier lado" (WORA). Para más información sobre Java, explora estos recursos:
+
+    Tutoriales de Oracle sobre Java
+
+: Tutoriales sobre Java incluidos en los documentos de Oracle
+
+Java para principiantes
+
+    : Curso gratuito de Java para principiantes en el sitio web "Home and Learn"
+
+Python es un lenguaje de programación de uso general. Explora los recursos de Python que se enumeran en la sección del analista de datos.
+
+Ruby es un lenguaje de programación de uso general orientado a objetos para el desarrollo de aplicaciones web. Ruby no es lo mismo que Ruby on Rails, que es un framework de aplicación web de código abierto que se ejecuta usando Ruby. Consulta estos recursos para obtener más información sobre Ruby: 
+
+    Noticias sobre Ruby
+
+: Información sobre los últimos lanzamientos de Ruby y enlaces a otros recursos
+
+Documentación de Ruby
+
+: Incluye guías, tutoriales y material de referencia para ayudarte a aprender más sobre Ruby
+
+Guía para programadores de Ruby
+
+: Tutorial y guía de referencia para Ruby
+
+Aprender Ruby en Codecademy
+
+    : Sitio web con lecciones interactivas básicas y gratuitas, así como actividades extra a las que puedes acceder mediante una suscripción mensual
+
+PHP es un lenguaje de scripts que es particularmente útil para desarrollo de aplicaciones web. Está basado en Perl, otro lenguaje de programación. PHP es simple, flexible y relativamente fácil de aprender. Consulta estos recursos para obtener más información sobre PHP:
+
+    Archivos descargables y documentos sobre PHP
+
+: Información sobre los últimos lanzamientos de PHP y enlaces a otros recursos
+
+PHP bien ejecutado
+
+: Referencia rápida para estándares populares de programación con PHP
+
+Tutorial interactivo de PHP
+
+    : Tutorial gratuito que ejecuta códigos PHP en distintos ejercicios
+
+Desarrollador de videojuegos
+
+Los desarrolladores de videojuegos son desarrolladores de aplicaciones que se dedican específicamente a crear videojuegos. Los lenguajes de programación que más usan son C# y C++.
+
+C# es un lenguaje de programación orientado a objetos que se usa mucho para crear videojuegos. Explora los recursos de C# que se enumeran en la sección de desarrolladores de aplicaciones para dispositivos móviles.
+
+C++ es una extensión del lenguaje de programación C que también se usa para crear juegos de consola, como los juegos para Xbox. Explora los siguientes enlaces para más información sobre C++:
+
+    Recursos de Microsoft para C++
+
+: Aprende a instalar el IDE de Visual Studio y escribir códigos usando C++
+
+Códigos de muestra de Microsoft C++ y C# para videojuegos
+
+: Recurso con más de 40 códigos de muestra de C++ y C# para videojuegos 
+
+Tutorial interactivo de C++
+
+    : Tutorial gratuito que ejecuta códigos C++ en distintos ejercicios
+
+Consejos para aprender lenguajes de programación
+
+A continuación, te dejamos algunos consejos para tener en cuenta cuando empiezas a aprender un nuevo lenguaje de programación:
+
+    Establece un proyecto de práctica y usa el lenguaje para completarlo. Así, el proceso de aprendizaje es más práctico e interesante.  
+
+    No olvides conceptos y principios de programación que ya hayas aprendido. Muchos pueden usarse con distintos lenguajes de programación. Así que, después de aprender un lenguaje, aprender un segundo o tercero suele ser mucho más simple. 
+
+    Crea y mantén notas y hojas de referencia útiles en cualquier formato que te resulte práctico (a mano o en computadora).
+
+    Crea un sistema de archivado en línea para poder acceder a la información que necesites de modo fácil mientras trabajas en distintos entornos de programación.
